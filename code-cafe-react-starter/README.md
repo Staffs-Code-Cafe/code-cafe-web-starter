@@ -28,27 +28,6 @@ node -v
 ```
 No node? Download it from https://nodejs.org/
 
-## Option 1: Use this repo with GitHub (recommended)
-
-### Step 1: Fork the repo
-1. Click the **Fork** button (top right)
-2. Fork to **your own GitHub account**
-3. Clone your fork to your computer
-
-```bash
-git clone https://github.com/YOUR-USERNAME/react-starter.git
-```
-4. Open folder in VS Code
-
-### Step 2: Open the folder in VSCode
-## Option 2: Download a zip file
-
-### Step 1: Downlod and open folder
-1. Click Code → Download ZIP
-2. Unzip the folder
-3. Open the folder in VS Code
-
-
 ## How to run the project
 
 1. Install the dependencies (make sure you are in the root folder)
@@ -71,7 +50,8 @@ The page will refresh automatically after every change.
 - Create a simple component (e.g. Card or Button)
 - Render a component multiple times
 - Add a button that updates the page
-- You do NOT need to understand everything.
-- Please use online resources and documentation!
+
+You do NOT need to understand everything.
+Please use online resources and documentation!
 
 If you get stuck, ask for help! That’s the point! ☕
