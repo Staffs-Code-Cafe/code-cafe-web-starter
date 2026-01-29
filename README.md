@@ -80,13 +80,9 @@ Stretch:
 # Getting started (important)
 
 1. Clone or download this repository
-
 2. Open the root folder in VS Code
-
 3. Open the terminal (Terminal → New Terminal)
-
 4. `cd` into the starter folder for your chosen path
-
 5. Follow the README inside that folder
 
 Tip: `cd` means “change directory”
